@@ -1,1 +1,1 @@
-Expense tracker app by using react and tailwind css
+Expense tracker app by using React and Tailwind CSS
